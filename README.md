@@ -39,7 +39,7 @@ Feel free to reach out if you’re interested in collaborating on Python project
 - 🇬🇧 🇪🇸 🤯 [general discord channel, en español, english y geroglificos](https://discord.gg/gR7suJwP)
 
 ---
-#Support 
+# Support 
 Curently, the project is entirelly suported by repuestosimpresos.com, soon will be info about how to colaborate.
 
 
