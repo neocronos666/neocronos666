@@ -36,8 +36,14 @@ Feel free to reach out if you’re interested in collaborating on Python project
 
 - **GitHub**: [github.com/neocronos666](https://github.com/neocronos666)
 
----
+- 🇬🇧 🇪🇸 🤯 [general discord channel, en español, english y geroglificos](https://discord.gg/gR7suJwP)
 
+---
+#Support 
+Curently, the project is entirelly suported by repuestosimpresos.com, soon will be info about how to colaborate.
+
+
+---
 ## 💡 Contributions & Feedback
 
 If you have suggestions, ideas, or want to contribute to any of my projects, I’d love to hear from you. Feel free to open an issue or submit a pull request.
@@ -46,3 +52,5 @@ If you have suggestions, ideas, or want to contribute to any of my projects, I�
 ---
 
 Thanks for stopping by! 😊
+
+
