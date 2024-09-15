@@ -42,8 +42,7 @@ Feel free to reach out if you’re interested in collaborating on Python project
 
 If you have suggestions, ideas, or want to contribute to any of my projects, I’d love to hear from you. Feel free to open an issue or submit a pull request.
 
-**if you see this line you can hire me:** I'm also searching to be part of a challenging company to develop my skills at max, if you need it, I can send you my full resume and appoint an interview.
-
+**if you see this line you can hire me:** I'm also searching to be part of a challenging company to develop my skills at max, if you need it, I can send you my full resume and appoint an interview. [Here](https://www.linkedin.com/in/29994135/) is my linkedin profile: 
 ---
 
 Thanks for stopping by! 😊
