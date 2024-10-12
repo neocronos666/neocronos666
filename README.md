@@ -14,6 +14,7 @@ I’m currently working on projects to solidify my Python skills, and I'm buildi
   - Visual Studio Code (VS Code)
   - Anaconda
   - SQL
+  - JSON/MongoDB
   - Reinforcement Learning
   
 
@@ -23,9 +24,10 @@ I’m currently working on projects to solidify my Python skills, and I'm buildi
 
 Here are some of the projects I've been working on:
 
-1. **Open cheatsheet** - A Python app that helps students with small critical info documents.
-2. **Unnamed yet fitness app** - An app to help people with gym workouts an routines.
-3. Some other IA tests (soon I will post some code in github)
+1. [**Open cheatsheet**](https://github.com/neocronos666/open_cheatsheet) - A Python app that helps students with small critical info documents.
+2. [Sopas de la Abuela](https://github.com/neocronos666/sopas_de_la_abuela) - A command line app to create *Alphabet Soups* pages from .txt files and store in a PDF documento for easy printing
+3. **Unnamed yet fitness app** - An app to help people with gym workouts an routines.
+4. Some other IA tests (soon I will post some code in github)
    
 ---
 
