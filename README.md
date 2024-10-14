@@ -25,9 +25,10 @@ I’m currently working on projects to solidify my Python skills, and I'm buildi
 Here are some of the projects I've been working on:
 
 1. [**Open cheatsheet**](https://github.com/neocronos666/open_cheatsheet) - A Python app that helps students with small critical info documents.
-2. [Sopas de la Abuela](https://github.com/neocronos666/sopas_de_la_abuela) - A command line app to create *Alphabet Soups* pages from .txt files and store in a PDF documento for easy printing
-3. **Unnamed yet fitness app** - An app to help people with gym workouts an routines.
-4. Some other IA tests (soon I will post some code in github)
+2. [Sopas de la Abuela](https://github.com/neocronos666/sopas_de_la_abuela) - A command line app to create `Alphabet Soups` pages from .txt files and store in a PDF documento for easy printing
+3. [Hashdoku](https://github.com/neocronos666/hashdoku) - A Command line backend to create pdf files containing  printable `Sudoku` games, the solution is encoded with a 77-base bi-directional compession algorithm to generate the solution of the game only with a hash string.
+4. **Unnamed yet fitness app** - An app to help people with gym workouts an routines.
+5. Some other IA tests (soon I will post some code in github)
    
 ---
 
@@ -43,8 +44,6 @@ Feel free to reach out if you’re interested in collaborating on Python project
 ---
 # Support 
 Curently, the project is entirelly suported by repuestosimpresos.com, soon will be info about how to colaborate.
-
-
 ---
 ## 💡 Contributions & Feedback
 
